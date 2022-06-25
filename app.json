@@ -2,7 +2,8 @@
   "name": "Mark Taylor - MSSE 663 Final Calendar App",
   "description": "A basic MEAN calendar using MongoDB, Express, Angular and Node",
   "repository": "https://github.com/taylorminco/final_calendar",
-  "logo": "https://raw.githubusercontent.com/taylorminco/final_calendar/master/public/images/Calendar.png",
+  //"logo": "https://raw.githubusercontent.com/taylorminco/final_calendar/master/public/images/Calendar.png",
+  "logo": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://regis.edu&size=16",
   "keywords": ["node", "express", "angular", "mongo", "calendar"],
-  "image": "public/images/Calendar-icon-handwrite.png"
+  "image": "public/images/Calendar.png"
 }
