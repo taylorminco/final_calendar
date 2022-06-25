@@ -7,7 +7,10 @@ var bodyParser = require('body-parser');
 
 //Database
 var mongo = require('mongoskin');
-var db = mongo.db('mongodb://app_user:a12345@ds037005.mongolab.com:37005/heroku_847lbw7q', {native_parser:true});
+var db = mongo.db('mongodb+srv://m001-student:m001-mongodb-basics@sandbox.okvci.mongodb.net/?retryWrites=true&w=majority', {native_parser:true});
+
+//m001-mongodb-basics  
+//var db = mongo.db('mongodb://app_user:a12345@ds037005.mongolab.com:37005/heroku_847lbw7q', {native_parser:true});
 
 var routes = require('./routes/index');
 var tasks = require('./routes/tasks');
