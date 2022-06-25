@@ -20,5 +20,5 @@ The app uses the NoSQL database MongoDB
 2. Install dependencies
    $ npm install
 3. Run app
-   $ ./bin/www
+   $ node ./bin/www
 4. Open browser to http://localhost:3000
