@@ -1,12 +1,24 @@
-# MEAN-Calendar
-A simple restful Calendar app with AngularJS, Node.js, Express and MongoDB
+# Mark Taylor - MSSE663 X40 Web Frameworks Final App
 
-This is an extension of the [To-do List App](https://github.com/altany/MEAN-ToDoApp) I created with the MEAN stack
+A basic MEAN calendar using MongoDB, Express, Angular and Node
 
-### Demo
-To see and play with this app, follow:
-[https://mean-calendar.herokuapp.com](https://mean-calendar.herokuapp.com).
+# Features
 
-It is uploaded in Heroku so it might take some time to load the first time.
+Basic CRUD operations
 
-*To instal and run this app, [this blog](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/) is very useful*
+- Create new event
+- Read event
+- Update/Modify existing event
+- Delete event
+
+The app uses the NoSQL database MongoDB
+
+# To install locally
+
+1. Clone repository
+   $ git clone https://github.com/taylorminco/final_calendar.git
+2. Install dependencies
+   $ npm install
+3. Run app
+   $ ./bin/www
+4. Open browser to http://localhost:3000

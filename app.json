@@ -1,8 +1,8 @@
 {
-  "name": "MEAN Calendar",
-  "description": "A calendar using Mongo DB, Express, AngularJS and Node.js",
-  "repository": "https://github.com/altany/MEAN-Calendar",
-  "logo": "https://raw.githubusercontent.com/altany/MEAN-Calendar/master/public/images/Calendar.png",
+  "name": "Mark Taylor - MSSE 663 Final Calendar App",
+  "description": "A basic MEAN calendar using MongoDB, Express, Angular and Node",
+  "repository": "https://github.com/taylorminco/final_calendar",
+  "logo": "https://raw.githubusercontent.com/taylorminco/final_calendar/master/public/images/Calendar.png",
   "keywords": ["node", "express", "angular", "mongo", "calendar"],
   "image": "public/images/Calendar-icon-handwrite.png"
 }
